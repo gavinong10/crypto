@@ -1,0 +1,6 @@
+*
+!requirements.txt
+!.gitignore
+
+!*/
+!lib/python2.7/site-packages/project.pth
